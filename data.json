@@ -1,0 +1,56 @@
+{
+    "success": true,
+    "error": null,
+    "offers": [
+        {
+            "offerid": 9164,
+            "name": "Final Fantasy XV - CPE tutorial (Android, Free, INCENT, US, 156MB, 5.0)",
+            "name_short": "Final Fantasy XV",
+            "adcopy": "Download, install and complete the tutorial to unlock this content.",
+            "picture": "https:\/\/media.go2speed.org\/brand\/files\/ogmobi\/9164\/thumbnails_100\/Final.Fantasy.Animated.gif",
+            "payout": "0.39",
+            "country": "US",
+            "device": "Android",
+            "link": "http:\/\/jump.ogtrk.net\/aff_c?aff_id=1026&offer_id=9164",
+            "epc": "0.16220"
+        },
+        {
+            "offerid": 2993,
+            "name": "Castle Clash - (Android, Free, INCENT, US, 113M)",
+            "name_short": "Castle Clash",
+            "description": "Build and battle your way to glory in Castle Clash! With over 100 million clashers worldwide, the heat is on in the most addictive game ever! In a brilliant mix of fast-paced strategy and exciting combat, Castle Clash is a game of epic proportions! Hire legions of powerful Heroes and lead an army of mythical creatures, big and small. Fight to the top and become the world\u2019s greatest Warlord. Your empire is as strong as your creativity!",
+            "adcopy": "Download and install this app then run it for 30 seconds to unlock this content.",
+            "picture": "https:\/\/media.go2speed.org\/brand\/files\/ogmobi\/2993\/thumbnails_100\/20171005125303-castleclashbravesquadsnew.png",
+            "payout": "0.34",
+            "country": "US",
+            "device": "Android",
+            "link": "http:\/\/jump.ogtrk.net\/aff_c?aff_id=1026&offer_id=2993",
+            "epc": "0.14296"
+        },
+        {
+            "offerid": 15696,
+            "name": "AliExpress - (Android, Free, INCENT, UK,ES,RU,NL,US,CZ,IT,FR,DE, 9M)",
+            "name_short": "AliExpress",
+            "adcopy": "Download and install this app, then run it for 30 seconds to unlock this content.",
+            "picture": "https:\/\/media.go2speed.org\/brand\/files\/ogmobi\/15696\/thumbnails_100\/thumbnail-3348293455ab55884094838.07934089.png",
+            "payout": "0.22",
+            "country": "CZ,FR,DE,IT,NL,RU,ES,UK,US",
+            "device": "Android",
+            "link": "http:\/\/jump.ogtrk.net\/aff_c?aff_id=1026&offer_id=15696",
+            "epc": "0.14196"
+        },
+        {
+            "offerid": 5930,
+            "name": "AppMatch Survey - Incent, UK\/CA, Dynamic Payout!",
+            "name_short": "AppMatch Survey",
+            "description": "",
+            "adcopy": "Match your interests to the best apps available and unlock your content!",
+            "picture": "https:\/\/media.go2speed.org\/brand\/files\/ogmobi\/5930\/thumbnails_100\/mobilesurvey.png",
+            "payout": "0.28",
+            "country": "AU,CA,UK,US",
+            "device": "iPhone,Android",
+            "link": "http:\/\/jump.ogtrk.net\/aff_c?aff_id=1026&offer_id=5930",
+            "epc": "0.11598"
+        }
+    ]
+}
